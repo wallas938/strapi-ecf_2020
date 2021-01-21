@@ -9,8 +9,6 @@ Utilisateurs:
 Utilisateur 1: { "identifier": "Francois", "password": "password" },
 Utilisateur 2: { "identifier": Sami"password": radi},
 
-(Si existants alors il faut les créer)
-
 API for login:
 
 POST - http://localhost:1337/auth/local:
